@@ -24,6 +24,3 @@ HTML • CSS • JavaScript • React • Node.js • Python • MongoDB • Git
 - REST API and MongoDB projects
 - Machine Learning project in Python
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximiliian&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maximiliian&show_icons=true)
