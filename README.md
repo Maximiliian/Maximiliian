@@ -13,6 +13,7 @@
 
 - Telegram: @IamMaximillllian
 - Email: maxim.knyshov@gmail.com
+- [hh.ru] (https://hh.ru/resume/089f862aff108c127e0039ed1f4a364a343441)
 
 ### Tech Stack
 
