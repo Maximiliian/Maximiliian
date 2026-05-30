@@ -8,12 +8,13 @@
 - 💻 Building web applications with JavaScript and Python
 - 🚀 Looking for internship opportunities and real-world projects
 - 📂 Check out my repositories below
+- 📄 My resume is available [here](https://github.com/Maximiliian/Resume-)
 
 ### Contact
 
 - Telegram: @IamMaximillllian
 - Email: maxim.knyshov@gmail.com
-- [hh.ru] (https://hh.ru/resume/089f862aff108c127e0039ed1f4a364a343441)
+- my [hh.ru](https://hh.ru/resume/089f862aff108c127e0039ed1f4a364a343441)
 
 ### Tech Stack
 
