@@ -1,25 +1,29 @@
-# Привет! 👋
+# # Hi there 👋
 
-## Максим Кнышов
+## I'm Maxim Knyshov
 
-**Начинающий Frontend / Backend / AI Developer**
+**Intern Frontend / Backend / AI Developer**
 
-- 🌱 Изучаю React, Node.js и машинное обучение
-- 💻 Разрабатываю веб-приложения на JavaScript и Python
-- 🚀 Ищу возможности для стажировок и участия в реальных проектах
-- 📂 Посмотрите мои репозитории ниже
+- 🌱 Currently learning React, Node.js and Machine Learning
+- 💻 Building web applications with JavaScript and Python
+- 🚀 Looking for internship opportunities and real-world projects
+- 📂 Check out my repositories below
 
-### Контакты
+### Contact
 
 - Telegram: @IamMaximillllian
 - Email: maxim.knyshov@gmail.com
 
-### Технологии и инструменты
+### Tech Stack
 
 HTML • CSS • JavaScript • React • Node.js • Python • MongoDB • Git • GitHub • REST API • Postman
 
-### Проекты
+### Projects
 
-- Веб-приложения на JavaScript и Node.js
-- Проекты с REST API и MongoDB
-- Проект по машинному обучению на Python
+- Web applications built with JavaScript and Node.js
+- REST API and MongoDB projects
+- Machine Learning project in Python
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximiliian&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maximiliian&show_icons=true)
