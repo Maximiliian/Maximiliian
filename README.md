@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**Maximiliian/Maximiliian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Максим Кнышов
 
-Here are some ideas to get you started:
+**Начинающий Frontend / Backend / AI Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Изучаю React, Node.js и машинное обучение
+- 💻 Разрабатываю веб-приложения на JavaScript и Python
+- 🚀 Ищу возможности для стажировок и участия в реальных проектах
+- 📂 Посмотрите мои репозитории ниже
+
+### Контакты
+
+- Telegram: @IamMaximillllian
+- Email: maxim.knyshov@gmail.com
+
+### Технологии и инструменты
+
+HTML • CSS • JavaScript • React • Node.js • Python • MongoDB • Git • GitHub • REST API • Postman
+
+### Проекты
+
+- Веб-приложения на JavaScript и Node.js
+- Проекты с REST API и MongoDB
+- Проект по машинному обучению на Python
