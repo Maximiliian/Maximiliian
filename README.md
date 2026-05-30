@@ -8,7 +8,9 @@
 - 💻 Building web applications with JavaScript and Python
 - 🚀 Looking for internship opportunities and real-world projects
 - 📂 Check out my repositories below
-- 📄 My resume is available [here](https://github.com/Maximiliian/Resume-)
+- 📄 My resume in Russian is available [here](https://github.com/Maximiliian/Resume-)
+- 📄 My resume in English is available 
+[here](https://github.com/Maximiliian/Resume-eng)
 
 ### Contact
 
